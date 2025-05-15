@@ -1,0 +1,14 @@
+/Users/admin/c#/TerroristDataAnalyzer/bin/Debug/net9.0/TerroristDataAnalyzer
+/Users/admin/c#/TerroristDataAnalyzer/bin/Debug/net9.0/TerroristDataAnalyzer.deps.json
+/Users/admin/c#/TerroristDataAnalyzer/bin/Debug/net9.0/TerroristDataAnalyzer.runtimeconfig.json
+/Users/admin/c#/TerroristDataAnalyzer/bin/Debug/net9.0/TerroristDataAnalyzer.dll
+/Users/admin/c#/TerroristDataAnalyzer/bin/Debug/net9.0/TerroristDataAnalyzer.pdb
+/Users/admin/c#/TerroristDataAnalyzer/obj/Debug/net9.0/TerroristDataAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/c#/TerroristDataAnalyzer/obj/Debug/net9.0/TerroristDataAnalyzer.AssemblyInfoInputs.cache
+/Users/admin/c#/TerroristDataAnalyzer/obj/Debug/net9.0/TerroristDataAnalyzer.AssemblyInfo.cs
+/Users/admin/c#/TerroristDataAnalyzer/obj/Debug/net9.0/TerroristDataAnalyzer.csproj.CoreCompileInputs.cache
+/Users/admin/c#/TerroristDataAnalyzer/obj/Debug/net9.0/TerroristDataAnalyzer.dll
+/Users/admin/c#/TerroristDataAnalyzer/obj/Debug/net9.0/refint/TerroristDataAnalyzer.dll
+/Users/admin/c#/TerroristDataAnalyzer/obj/Debug/net9.0/TerroristDataAnalyzer.pdb
+/Users/admin/c#/TerroristDataAnalyzer/obj/Debug/net9.0/TerroristDataAnalyzer.genruntimeconfig.cache
+/Users/admin/c#/TerroristDataAnalyzer/obj/Debug/net9.0/ref/TerroristDataAnalyzer.dll
