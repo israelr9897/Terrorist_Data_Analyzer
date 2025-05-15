@@ -6,7 +6,7 @@ namespace SeriesAnalyzer
     {
         static void Main(string[] args) //Activates functions according to user selection
         {
-
+            Console.WriteLine("hi");
         }
     }
 }
